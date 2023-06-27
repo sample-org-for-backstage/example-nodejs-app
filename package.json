@@ -1,0 +1,10 @@
+{
+  "name": "example-nodejs-app",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
