@@ -8,8 +8,6 @@ metadata:
     - example
     - ci
   annotations:
-    github.com/project-slug: P-G-Backstage-POC/ads-example-nodejs-app
-    sonarqube.org/project-key: procter-gamble_ads-developer-portal
     backstage.io/techdocs-ref: url:https://github.com/backstage/backstage
 spec:
   type: service
