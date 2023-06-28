@@ -6,7 +6,6 @@ metadata:
   tags:
     - nodejs
     - example
-    - ci
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/backstage/backstage
 spec:
